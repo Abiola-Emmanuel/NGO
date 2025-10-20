@@ -197,7 +197,6 @@ nav a:hover {
 }
 
 .com {
-  border: 1px solid red;
   width: 400px;
   display: flex;
   flex-direction: column;
@@ -358,7 +357,7 @@ nav a:hover {
   }
 
   .com {
-    width: 450px;
+    width: 90%;
   }
 
   .com a {
