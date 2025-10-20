@@ -112,8 +112,8 @@ nav a:hover {
 }
 
 .hamburger-menu a {
-  background-color: white;
-  color: green;
+  background-color: rgba(71, 71, 71, 0.489);
+  color: white;
   padding: 6px 10px;
   border-radius: 100%;
   transition: background-color;
