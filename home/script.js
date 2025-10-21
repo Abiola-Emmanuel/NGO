@@ -8,6 +8,7 @@ owl.owlCarousel({
   loop: true,
   margin: 10,
   autoplay: true,
+  animateOut: 'fadeOut',
   autoplayTimeout: 2000,
   autoplayHoverPause: true
 });
